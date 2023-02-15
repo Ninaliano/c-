@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\bin\Debug\net6.0\Example_5_IF_ELSE.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\bin\Debug\net6.0\Example_5_IF_ELSE.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\bin\Debug\net6.0\Example_5_IF_ELSE.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\bin\Debug\net6.0\Example_5_IF_ELSE.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\bin\Debug\net6.0\Example_5_IF_ELSE.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\refint\Example_5_IF_ELSE.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\Example_5_IF_ELSE.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_5_IF_ELSE\obj\Debug\net6.0\ref\Example_5_IF_ELSE.dll
