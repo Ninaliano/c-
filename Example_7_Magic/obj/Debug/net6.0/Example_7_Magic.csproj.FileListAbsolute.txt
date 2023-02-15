@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\bin\Debug\net6.0\Example_7_Magic.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\bin\Debug\net6.0\Example_7_Magic.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\bin\Debug\net6.0\Example_7_Magic.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\bin\Debug\net6.0\Example_7_Magic.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\bin\Debug\net6.0\Example_7_Magic.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\refint\Example_7_Magic.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\Example_7_Magic.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\C#\Example_7_Magic\obj\Debug\net6.0\ref\Example_7_Magic.dll
