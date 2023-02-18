@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\bin\Debug\net6.0\Example_9_IntroArray.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\bin\Debug\net6.0\Example_9_IntroArray.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\bin\Debug\net6.0\Example_9_IntroArray.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\bin\Debug\net6.0\Example_9_IntroArray.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\bin\Debug\net6.0\Example_9_IntroArray.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\refint\Example_9_IntroArray.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\Example_9_IntroArray.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_9_IntroArray\obj\Debug\net6.0\ref\Example_9_IntroArray.dll
