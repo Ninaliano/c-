@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\bin\Debug\net6.0\Example_8_IntroMethod.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\bin\Debug\net6.0\Example_8_IntroMethod.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\bin\Debug\net6.0\Example_8_IntroMethod.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\bin\Debug\net6.0\Example_8_IntroMethod.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\bin\Debug\net6.0\Example_8_IntroMethod.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\refint\Example_8_IntroMethod.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\Example_8_IntroMethod.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_8_IntroMethod\obj\Debug\net6.0\ref\Example_8_IntroMethod.dll
