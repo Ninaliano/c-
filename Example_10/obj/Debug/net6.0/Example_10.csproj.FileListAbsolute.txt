@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\bin\Debug\net6.0\Example_10.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\bin\Debug\net6.0\Example_10.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\bin\Debug\net6.0\Example_10.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\bin\Debug\net6.0\Example_10.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\bin\Debug\net6.0\Example_10.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\refint\Example_10.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\Example_10.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_10\obj\Debug\net6.0\ref\Example_10.dll
