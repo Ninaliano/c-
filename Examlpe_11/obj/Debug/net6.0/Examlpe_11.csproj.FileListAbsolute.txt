@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\bin\Debug\net6.0\Examlpe_11.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\bin\Debug\net6.0\Examlpe_11.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\bin\Debug\net6.0\Examlpe_11.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\bin\Debug\net6.0\Examlpe_11.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\bin\Debug\net6.0\Examlpe_11.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\refint\Examlpe_11.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\Examlpe_11.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Examlpe_11\obj\Debug\net6.0\ref\Examlpe_11.dll
