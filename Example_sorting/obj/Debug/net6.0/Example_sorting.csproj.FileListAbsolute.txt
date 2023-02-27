@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\bin\Debug\net6.0\Example_sorting.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\bin\Debug\net6.0\Example_sorting.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\bin\Debug\net6.0\Example_sorting.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\bin\Debug\net6.0\Example_sorting.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\bin\Debug\net6.0\Example_sorting.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\refint\Example_sorting.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\Example_sorting.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Lection - введение в языки программирования C#\Example_sorting\obj\Debug\net6.0\ref\Example_sorting.dll
